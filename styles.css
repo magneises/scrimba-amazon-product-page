@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+a {
+    color: #007185;
+}
+
+.breadcrumbs {
+    color: #565959;
+}
+
+.pdp-container {
+    display: flex;
+}
+
+.left-column {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.right-column {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
